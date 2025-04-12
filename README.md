@@ -5,13 +5,13 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./assets/screenshots/android-light.jpg" width="200"/>
+  <img src="./assets/screenshots/android-light.jpg" width="170"/>
   &nbsp;&nbsp;
-  <img src="./assets/screenshots/android-dark.jpg" width="200"/>
+  <img src="./assets/screenshots/android-dark.jpg" width="170"/>
   &nbsp;&nbsp;
-  <img src="./assets/screenshots/ios-light.jpg" width="200"/>
+  <img src="./assets/screenshots/ios-light.jpg" width="170"/>
   &nbsp;&nbsp;
-  <img src="./assets/screenshots/ios-dark.jpg" width="200"/>
+  <img src="./assets/screenshots/ios-dark.jpg" width="170"/>
 </p>
 
 
