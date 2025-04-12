@@ -6,11 +6,11 @@
 
 <p align="center">
   <img src="./assets/screenshots/android-light.jpg" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./assets/screenshots/android-dark.jpg" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./assets/screenshots/ios-light.jpg" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="./assets/screenshots/ios-dark.jpg" width="200"/>
 </p>
 
